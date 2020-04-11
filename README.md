@@ -19,5 +19,3 @@ node.getNext()
 ```
 
 **Note**: do NOT mutate the nodes!
-
-## Tests

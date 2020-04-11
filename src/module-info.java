@@ -1,3 +1,2 @@
 module codewarsCanYouGetTheLoop {
-	requires junit;
 }
